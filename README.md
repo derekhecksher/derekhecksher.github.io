@@ -1,4 +1,4 @@
-# Howdy 👋
+# derekhecksher.github.io
 
 ### Get Connected
 * [LinkedIn](https://www.linkedin.com/in/derek-hecksher/)
